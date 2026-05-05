@@ -1,9 +1,9 @@
-# Tektite Video Combiner 5.0
+# Tektite Video Combiner 6.0
 
 Standalone ComfyUI custom node variant with a new class name so it can be installed next to older versions without conflicts.
 
 ## Node Name
-- `Tektite Video Combiner 5.0`
+- `Tektite Video Combiner 6.0`
 
 ## Key Features
 - `clip1..clip16` inputs
@@ -19,7 +19,7 @@ Standalone ComfyUI custom node variant with a new class name so it can be instal
 ## Install
 1. Copy this folder into `ComfyUI/custom_nodes/`
 2. Restart ComfyUI
-3. Add node: `Tektite Video Combiner 5.0`
+3. Add node: `Tektite Video Combiner 6.0`
 
 ## Notes
-- This package intentionally uses a different backend class (`TektiteVideoCombiner5`) so it can live next to older versions.
+- This package intentionally uses a different backend class (`TektiteVideoCombiner6`) so it can live next to older versions.
